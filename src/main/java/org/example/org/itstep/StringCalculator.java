@@ -2,6 +2,8 @@ package org.example.org.itstep;
 
 import java.util.Arrays;
 
+// это шняга
+
 public class StringCalculator {
     public static int add(String input) throws SpliterFormatException, NumberNegativeException{
         if (input == null || input.equals("")) {
